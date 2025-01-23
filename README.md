@@ -21,21 +21,18 @@
 
 Discord: `dbg.bin`
 
-[My homepage](https://guns.lol/dbg.bin)
+[My link in bio](https://guns.lol/dbg.bin)
 
 - 😄 Pronouns: He/Him
 - Favorite food: Lasagna
 - Favorite coffee: Peppermint Mocha
 - Favorite soda: MTN DEW Spark
 
-Any donations appreciated
-[Cash App](https://cash.app/$dbgbin)
+
 
 <span align="center">
     
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaKesarwani&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debug-cli&layout=compact)
 </span>
 -->
-[![My Skills](https://skillicons.dev/icons?i=py,git,html,discord,windows,linux,vim,bash)](https://skillicons.dev)
-
-![](https://komarev.com/ghpvc/?username=ShauryaKesarwani)
+[![My Skills](https://skillicons.dev/icons?i=py,git,html,discord,windows,linux,vim,bash,google)](https://skillicons.dev)
