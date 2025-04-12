@@ -64,4 +64,7 @@
 
 ---
 
-Thanks for visiting my profile! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate.
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=3500&pause=5000&center=true&multiline=true&width=550&height=100&lines=%2Fdev%20central&color=ffffff)](https://github.com/debug-cli)
+- /dev central, a discord server for sharing code and collaborating with other developers.
+- be one with the coding community.
+- **[join now.](https://discord.gg/2PSuwKwPmb)**
