@@ -60,7 +60,7 @@
 
 ## 🚀 Projects I'm Proud Of
 
-- 🌐 **[DOSping](https://github.com/debug-cli):** A private project focusing on efficient testing of main functions and debugging.
+- 🌐 **[DOSping](https://github.com/debug-cli):** A private project focusing on specific cybersecurity stress testing.
 
 ---
 
