@@ -14,7 +14,7 @@
 ## Hi there 👋
 
 - My real name is **Osmar Ponce**.
-- I am a **new Python developer** and a **tech enthusiast**.
+- I am a **new Web (HTML, CSS) developer** and a **tech enthusiast**.
 - Always open to **new opportunities** and challenges.
 
 ## 🌟 Info
