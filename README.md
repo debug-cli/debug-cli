@@ -19,8 +19,8 @@
   - Discord (bottom of page)
 - 😄 **Pronouns**: He/Him.
 - 🍝 **Favorite food**: Lasagna.
-- ☕ **Favorite coffee**: Iced Matcha Latte w/ Salt. Caramel Cold Foam, 6 pumps of Brown Sugar.
-- 🥤 **Favorite soda**: MTN DEW Spark.
+- ☕ **Favorite coffee**: Iced Matcha Latte w/ Caramel Syrup and Oatmilk. 
+- 🥤 **Favorite soda**: MTN DEW Baja Blast
 
 ---
 
@@ -54,10 +54,3 @@
 ## 🚀 Projects I'm Proud Of
 
 - 🌐 **[DOSping](https://github.com/debug-cli):** A private project focusing on specific cybersecurity stress testing.
-
----
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=3500&pause=5000&center=true&multiline=true&width=550&height=100&lines=%2Fdev%20central&color=ffffff)](https://github.com/debug-cli)
-- /dev central, a discord server for sharing code and collaborating with other developers.
-- be one with the coding community.
-- **[join now.](https://discord.gg/2PSuwKwPmb)**
