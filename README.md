@@ -4,13 +4,6 @@
 
 </span>
 
-![](https://komarev.com/ghpvc/?username=debug-cli&label=profile+views&color=gray&style=flat)
-![](https://komarev.com/ghpvc/?username=debug-cli&label=followers&color=gray&style=flat)
-![](https://komarev.com/ghpvc/?username=debug-cli&label=stars&color=gray&style=flat)
-![](https://komarev.com/ghpvc/?username=debug-cli&label=repositories&color=gray&style=flat)
-
-
-
 ## Hi there 👋
 
 - My real name is **Osmar Ponce**.
