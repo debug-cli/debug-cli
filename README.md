@@ -1,6 +1,6 @@
 <span align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2000&pause=600&center=true&multiline=true&width=550&height=100&lines=yo%20wsg%2C+i+am+dbgbin!;welcome+to+my+profile.&color=808080)](https://github.com/debug-cli)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2000&pause=600&center=true&multiline=true&width=550&height=100&lines=yo%20wsg%2C+i+am+saint/debug-cli!;welcome+to+my+profile.&color=808080)](https://github.com/debug-cli)
 
 </span>
 
