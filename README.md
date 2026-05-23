@@ -12,7 +12,7 @@
 
 ## 🌟 Info
 
-- 🔭 **Currently working on**: DOSping (repository is private due to main function testing).
+- 🔭 **Currently working on**: DOSping V3.0
 - 🌱 **Currently learning**: Javascript
 - 📫 **How to reach me**:
   - [Link in bio](https://guns.lol/dbg.bin)
