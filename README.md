@@ -29,18 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debug-cli&show_icons=true&theme=dark)](https://github.com/debug-cli)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debug-cli&layout=compact&theme=dark)](https://github.com/debug-cli)
-
-</div>
-
----
-
 ## 🎯 Fun Facts
 
 - 🎮 I love gaming, especially PC games.
