@@ -16,7 +16,6 @@
 - 🌱 **Currently learning**: Javascript
 - 📫 **How to reach me**:
   - [Link in bio](https://guns.lol/dbg.bin)
-  - Discord (bottom of page)
 - 😄 **Pronouns**: He/Him.
 - 🍝 **Favorite food**: Lasagna.
 - ☕ **Favorite coffee**: Iced Matcha Latte w/ Caramel Syrup and Oatmilk. 
