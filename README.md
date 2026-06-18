@@ -7,24 +7,26 @@
 ## Hi there 👋
 
 - My real name is **Osmar Ponce**.
-- I am a **new Web (HTML, CSS) developer** and a **tech enthusiast**.
+- I am a **new hobby/free-time full-stack developer** and a **tech enthusiast**.
 - Always open to **new opportunities** and challenges.
+- Vibe coding a big part of my projects, but love and original ideas are put into them as well.
 
 ## 🌟 Info
 
 - 🔭 **Currently working on**: DOSping V3.0
-- 🌱 **Currently learning**: Javascript
+- 🌱 **Currently learning**: Claude Code
 - 📫 **How to reach me**:
-  - [Link in bio](https://guns.lol/dbg.bin)
+  - [Link in bio (guns.lol)](https://guns.lol/dbg.bin)
 - 😄 **Pronouns**: He/Him.
-- 🍝 **Favorite food**: Lasagna.
+- 🍝 **Favorite food**: Al Pastor Tacos
 - ☕ **Favorite coffee**: Iced Matcha Latte w/ Caramel Syrup and Oatmilk. 
-- 🥤 **Favorite soda**: MTN DEW Baja Blast
+- 🥤 **Favorite soda**: MTN Dew Baja Blast
+- ⚡ **Favorite Energy Drink**: Monster Energy Viking Berry
 
 ---
 
 ## 🛠 My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,git,html,css,javascript,discord,windows,linux,vscode,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,html,css,javascript,discord,windows,linux,vscode,bash,claude,gemini,cursor)](https://skillicons.dev)
 
 ---
 
@@ -40,4 +42,4 @@
 
 ## 🚀 Projects I'm Proud Of
 
-- 🌐 **[DOSping](https://github.com/debug-cli/dosping):** A private project focusing on specific cybersecurity stress testing.
+- 🌐 **[DOSping](https://github.com/debug-cli/dosping):** A project that makes stress testing more accessible and more of a tool to anybody on the interwebs.
