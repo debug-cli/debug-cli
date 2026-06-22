@@ -13,14 +13,14 @@
 
 ## 🌟 Info
 
-- 🔭 **Currently working on**: DOSping V3.0
+- 🔭 **Currently working on**: DOSping V3.5
 - 🌱 **Currently learning**: Claude Code
 - 📫 **How to reach me**:
   - [Link in bio (guns.lol)](https://guns.lol/dbg.bin)
 - 😄 **Pronouns**: He/Him.
 - 🍝 **Favorite food**: Al Pastor Tacos
 - ☕ **Favorite coffee**: Iced Matcha Latte w/ Caramel Syrup and Oatmilk. 
-- 🥤 **Favorite soda**: MTN Dew Baja Blast
+- 🥤 **Favorite soda**: MTN Dew Baja Blast / Sprite Chill Cherry Lime
 - ⚡ **Favorite Energy Drink**: Monster Energy Viking Berry
 
 ---
