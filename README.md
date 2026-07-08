@@ -13,8 +13,8 @@
 
 ## 🌟 Info
 
-- 🔭 **Currently working on**: DOSping V3.5
-- 🌱 **Currently learning**: Claude Code
+- 🔭 **Currently working on**: proxydict. maintenance
+- 🌱 **Currently learning**: N/A
 - 📫 **How to reach me**:
   - [Link in bio (guns.lol)](https://guns.lol/dbg.bin)
 - 😄 **Pronouns**: He/Him.
