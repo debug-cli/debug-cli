@@ -34,12 +34,14 @@
 
 - 🎮 I love gaming, especially PC games.
 - 🧩 Enjoy coding in my free time.
-- ✨ I love making tech better by downloading plugins or tweaking code.
+- ✨ I love making tech better by downloading plugins or tweaking code, often by forking.
 - 🌍 Always curious about open-source projects
 - 🚝 I love modern public transit trains.
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects I'm Proud of
 
 - 🌐 **[DOSping](https://github.com/debug-cli/dosping):** A project that makes stress testing more accessible and more of a tool to anybody on the interwebs.
+
+- 🍇 **[graip](https://github.com/debug-cli/graip):** A website unblocker that has high repairability and many differences from other proxies/unblockers
